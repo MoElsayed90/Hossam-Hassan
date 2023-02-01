@@ -373,6 +373,12 @@ margin-bottom: 15px;
     position: absolute;
     margin-top:10px;
 }
+@media screen and (max-width:600px) {
+    .underline{
+        margin-top: 176.75px;
+    }
+    
+}
 .card{
     background-color: #edc501;
 }
